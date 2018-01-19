@@ -1,0 +1,16 @@
+C:\Users\MAE\source\repos\ListKata\ListKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MAE\source\repos\ListKata\ListKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MAE\source\repos\ListKata\ListKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MAE\source\repos\ListKata\ListKataTests\bin\Debug\ListKataTests.dll
+C:\Users\MAE\source\repos\ListKata\ListKataTests\bin\Debug\ListKataTests.pdb
+C:\Users\MAE\source\repos\ListKata\ListKataTests\bin\Debug\ListKata.exe
+C:\Users\MAE\source\repos\ListKata\ListKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MAE\source\repos\ListKata\ListKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MAE\source\repos\ListKata\ListKataTests\bin\Debug\ListKata.pdb
+C:\Users\MAE\source\repos\ListKata\ListKataTests\bin\Debug\ListKata.exe.config
+C:\Users\MAE\source\repos\ListKata\ListKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\MAE\source\repos\ListKata\ListKataTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\MAE\source\repos\ListKata\ListKataTests\obj\Debug\ListKataTests.csprojResolveAssemblyReference.cache
+C:\Users\MAE\source\repos\ListKata\ListKataTests\obj\Debug\ListKataTests.csproj.CoreCompileInputs.cache
+C:\Users\MAE\source\repos\ListKata\ListKataTests\obj\Debug\ListKataTests.dll
+C:\Users\MAE\source\repos\ListKata\ListKataTests\obj\Debug\ListKataTests.pdb

@@ -1,0 +1,7 @@
+C:\Users\MAE\source\repos\ListKata\ListKata\bin\Debug\ListKata.exe.config
+C:\Users\MAE\source\repos\ListKata\ListKata\bin\Debug\ListKata.exe
+C:\Users\MAE\source\repos\ListKata\ListKata\bin\Debug\ListKata.pdb
+C:\Users\MAE\source\repos\ListKata\ListKata\obj\Debug\ListKata.csproj.CoreCompileInputs.cache
+C:\Users\MAE\source\repos\ListKata\ListKata\obj\Debug\ListKata.exe
+C:\Users\MAE\source\repos\ListKata\ListKata\obj\Debug\ListKata.pdb
+C:\Users\MAE\source\repos\ListKata\ListKata\obj\Debug\ListKata.csprojResolveAssemblyReference.cache
